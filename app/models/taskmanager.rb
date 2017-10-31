@@ -1,2 +1,0 @@
-class Taskmanager < ApplicationRecord
-end
