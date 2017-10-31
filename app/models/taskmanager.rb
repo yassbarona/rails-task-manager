@@ -1,0 +1,2 @@
+class Taskmanager < ApplicationRecord
+end
